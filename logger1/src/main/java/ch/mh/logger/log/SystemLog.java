@@ -5,6 +5,7 @@ package ch.mh.logger.log;
  * @author mike
  */
 public class SystemLog extends AbstractLog {
+	//TRIGGERTEST
 
 	@Override
 	public void logMessage(String message) {
